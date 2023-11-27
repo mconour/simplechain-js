@@ -1,6 +1,3 @@
-Certainly! Here's a simple README.md template for your "simplechain-js" project:
-
-```markdown
 # SimpleChainJS
 
 SimpleChainJS is a basic blockchain implementation using JavaScript (Node.js). It provides a simple and easy-to-understand example of how a blockchain works.
