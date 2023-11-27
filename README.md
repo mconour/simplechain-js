@@ -41,4 +41,4 @@ If you find issues or have ideas for improvements, please [open an issue](https:
 
 ## License
 
-You can customize this README further based on additional features or information you want to include in your project. Make sure to replace "your-username" in the clone URL with your actual GitHub username. 
+Feel free to experiment with this code, add more features and explore other aspects of blockchain development.
