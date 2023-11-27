@@ -42,6 +42,5 @@ If you find issues or have ideas for improvements, please [open an issue](https:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
 
 Make sure to replace "your-username" in the clone URL with your actual GitHub username. You can customize this README further based on additional features or information you want to include in your project.
