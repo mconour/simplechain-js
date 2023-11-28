@@ -1,0 +1,15 @@
+{
+  "name": "simplechain",
+  "version": "1.0.0",
+  "description": "SimpleChainJS is a basic blockchain implementation using JavaScript (Node.js). It provides a simple and easy-to-understand example of how a blockchain works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
